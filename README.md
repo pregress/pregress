@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelance bakcend developer, I like working with:
+I'm a freelance backend developer, I like working with:
 
 * [C#](https://github.com/topics/csharp)
 * [Azure](https://github.com/topics/azure)
