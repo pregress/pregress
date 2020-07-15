@@ -1,18 +1,26 @@
 ### Hi there 👋
+I'm a freelance back-end developer.
 
-I'm a freelance backend developer, I like working with:
+Is the performance of your SQL server like a 🚜 but do you want a 🚀 ? Do you need some Azure functions ⚡ ? Or do you want help on your Azure ☁️ solution ? Or would you rather have a 🤖 to interact with your clients?
 
-* [C#](https://github.com/topics/csharp)
-* [Azure](https://github.com/topics/azure)
-* [SQL Server](https://github.com/topics/sql-server)
+📫 You can reach me via [hello@pregress.be][1]
 
-Is the performance of your SQL server like a :tractor: but do you want a :rocket: ?
+I like working with:
 
-Do you need some Azure functions :zap: ?
+    - C#
+    - Azure
+    - SQL Server
+    - Distributed Systems
+    - Domain Driven Design
+    - API's
+    - Web Application Security
 
-Or do you want help on your Azure :cloud: solution ? 
+In my spare time:
+- I'm a father 👶
+- I enjoy trail running in the mountains 🗻 
+- Love snowboarding 🏂 
 
-📫 You can reach me via hello@pregress.be 
+  [1]: http://mailto:hello@pregress.be
 
 ## Stackoverflow
 When time permits I try to help people on stackoverflow:
